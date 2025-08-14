@@ -9,7 +9,7 @@ I’m a passionate **Software Engineer** from Egypt, dedicated to building scala
 ## 🚀 About Me
 - 🎓 **Computer Engineering** @ Helwan University (Distinction Grade – 89%)
 - 💻 Skilled in **MERN Stack**, **Java**, **Python**, **C++**
-- 🤖 Interested in **Machine Learning**, and **Software Engineering**
+- 🤖 Interested in **Software Engineering**
 - 🌱 Currently enhancing my **React.js** and **Node.js** expertise
 - ✨ Committed to writing **clean, maintainable, and efficient code**
 
@@ -29,7 +29,8 @@ I’m a passionate **Software Engineer** from Egypt, dedicated to building scala
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)  
 
 **Other Tools & Skills:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=api&logoColor=white)  
 
 ---
 
@@ -44,7 +45,7 @@ I’m a passionate **Software Engineer** from Egypt, dedicated to building scala
 - **Email:** abdelrahmanashraf6000@gmail.com  
 - **LinkedIn:** [linkedin.com/in/abdelrahman-ashraf-fathey](https://linkedin.com/in/abdelrahman-ashraf-fathey/)  
 - **Portfolio:** [https://abdelrahmanashraf62651.github.io/portfolio/](https://abdelrahmanashraf62651.github.io/portfolio/)  
-- **GitHub:** [github.com/AbdelrahmanAshraf62651](https://github.com/AbdelrahmanAshraf62651)  
-
+- **GitHub:** [github.com/AbdelrahmanAshraf62651](https://github.com/AbdelrahmanAshraf62651)
+- **CodeForces:** [3ATEF_](https://codeforces.com/profile/3ATEF_) // [_3ATEF](https://codeforces.com/profile/_3ATEF)  
 ---
 💡 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
