@@ -33,13 +33,6 @@ I’m a passionate **Software Engineer** from Egypt, dedicated to building scala
 
 ---
 
-## 📌 Featured Projects
-- **[Smart City Platform](https://www.linkedin.com/posts/mohammademad2003_java-smartcity-javafx-activity-7331357990710575104-DSXK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElyBZkBqm8I8kG2VsySAlVAn0aNj6ex1yM)** – JavaFX + Spring Boot + MongoDB app for city services  
-- **[E-Commerce Dashboard](https://github.com/AbdelrahmanAshraf62651/E-Commerce)** – Native JS dashboard with analytics & reports  
-- **Supermarket Management System** – C++ & SQLite system for inventory/billing  
-
----
-
 ## 📫 Contact Me
 - **Email:** abdelrahmanashraf6000@gmail.com  
 - **LinkedIn:** [linkedin.com/in/abdelrahman-ashraf-fathey](https://linkedin.com/in/abdelrahman-ashraf-fathey/)  
